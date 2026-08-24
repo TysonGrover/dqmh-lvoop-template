@@ -39,6 +39,9 @@
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Data Log API.vi" Type="VI" URL="../Libraries/Data Log/Test Data Log API.vi"/>
 		</Item>
+		<Item Name="TestVIs" Type="Folder" URL="../TestVIs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="UI" Type="Folder" URL="../UI">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
