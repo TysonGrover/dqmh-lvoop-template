@@ -21,6 +21,8 @@
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Write to .csv Argument--cluster.ctl" Type="VI" URL="../Write to .csv Argument--cluster.ctl"/>
 				<Item Name="Write to .csv (Reply Payload)--cluster.ctl" Type="VI" URL="../Write to .csv (Reply Payload)--cluster.ctl"/>
+				<Item Name="Append data Argument--cluster.ctl" Type="VI" URL="../Append data Argument--cluster.ctl"/>
+				<Item Name="Append data (Reply Payload)--cluster.ctl" Type="VI" URL="../Append data (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -34,6 +36,7 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Write to .csv.vi" Type="VI" URL="../Write to .csv.vi"/>
+			<Item Name="Append data.vi" Type="VI" URL="../Append data.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
