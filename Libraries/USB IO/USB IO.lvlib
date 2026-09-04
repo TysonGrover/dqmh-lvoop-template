@@ -114,9 +114,9 @@ USB-6001</Property>
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
 	<Item Name="Classes" Type="Folder">
-		<Item Name="USB IO.lvclass" Type="LVClass" URL="../Classes/USB IO.lvclass"/>
+		<Item Name="USB IO.lvclass" Type="LVClass" URL="../Classes/USB IO generic/USB IO.lvclass"/>
 		<Item Name="USB-6000.lvclass" Type="LVClass" URL="../Classes/USB-6000/USB-6000.lvclass"/>
-		<Item Name="Arduino Uno.lvclass" Type="LVClass" URL="../Classes/Arduino Uno.lvclass"/>
+		<Item Name="Arduino Uno.lvclass" Type="LVClass" URL="../Classes/Arduino Uno/Arduino Uno.lvclass"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
