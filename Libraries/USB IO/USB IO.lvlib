@@ -22,6 +22,18 @@ USB-6001</Property>
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
+				<Item Name="Display Lines Argument--cluster.ctl" Type="VI" URL="../Display Lines Argument--cluster.ctl"/>
+				<Item Name="Display Lines (Reply Payload)--cluster.ctl" Type="VI" URL="../Display Lines (Reply Payload)--cluster.ctl"/>
+				<Item Name="select child Argument--cluster.ctl" Type="VI" URL="../select child Argument--cluster.ctl"/>
+				<Item Name="select child (Reply Payload)--cluster.ctl" Type="VI" URL="../select child (Reply Payload)--cluster.ctl"/>
+				<Item Name="read config Argument--cluster.ctl" Type="VI" URL="../read config Argument--cluster.ctl"/>
+				<Item Name="read config (Reply Payload)--cluster.ctl" Type="VI" URL="../read config (Reply Payload)--cluster.ctl"/>
+				<Item Name="init Argument--cluster.ctl" Type="VI" URL="../init Argument--cluster.ctl"/>
+				<Item Name="init (Reply Payload)--cluster.ctl" Type="VI" URL="../init (Reply Payload)--cluster.ctl"/>
+				<Item Name="init device Argument--cluster.ctl" Type="VI" URL="../init device Argument--cluster.ctl"/>
+				<Item Name="init device (Reply Payload)--cluster.ctl" Type="VI" URL="../init device (Reply Payload)--cluster.ctl"/>
+				<Item Name="stop device Argument--cluster.ctl" Type="VI" URL="../stop device Argument--cluster.ctl"/>
+				<Item Name="stop device (Reply Payload)--cluster.ctl" Type="VI" URL="../stop device (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -34,6 +46,11 @@ USB-6001</Property>
 			<Item Name="Hide Panel.vi" Type="VI" URL="../Hide Panel.vi"/>
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
+			<Item Name="Display Lines.vi" Type="VI" URL="../Display Lines.vi"/>
+			<Item Name="select child.vi" Type="VI" URL="../select child.vi"/>
+			<Item Name="read config.vi" Type="VI" URL="../read config.vi"/>
+			<Item Name="init device.vi" Type="VI" URL="../init device.vi"/>
+			<Item Name="stop device.vi" Type="VI" URL="../stop device.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
