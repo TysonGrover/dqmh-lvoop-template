@@ -28,6 +28,10 @@
 				<Item Name="read config (Reply Payload)--cluster.ctl" Type="VI" URL="../read config (Reply Payload)--cluster.ctl"/>
 				<Item Name="read position Argument--cluster.ctl" Type="VI" URL="../read position Argument--cluster.ctl"/>
 				<Item Name="read position (Reply Payload)--cluster.ctl" Type="VI" URL="../read position (Reply Payload)--cluster.ctl"/>
+				<Item Name="go to position Argument--cluster.ctl" Type="VI" URL="../go to position Argument--cluster.ctl"/>
+				<Item Name="go to position (Reply Payload)--cluster.ctl" Type="VI" URL="../go to position (Reply Payload)--cluster.ctl"/>
+				<Item Name="jog motor Argument--cluster.ctl" Type="VI" URL="../jog motor Argument--cluster.ctl"/>
+				<Item Name="jog motor (Reply Payload)--cluster.ctl" Type="VI" URL="../jog motor (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -45,6 +49,8 @@
 			<Item Name="clear error.vi" Type="VI" URL="../clear error.vi"/>
 			<Item Name="read config.vi" Type="VI" URL="../read config.vi"/>
 			<Item Name="read position.vi" Type="VI" URL="../read position.vi"/>
+			<Item Name="go to position.vi" Type="VI" URL="../go to position.vi"/>
+			<Item Name="jog motor.vi" Type="VI" URL="../jog motor.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

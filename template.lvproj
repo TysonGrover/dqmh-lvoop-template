@@ -36,6 +36,7 @@
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Testers" Type="Folder"/>
 		<Item Name="TestVIs" Type="Folder" URL="../TestVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
