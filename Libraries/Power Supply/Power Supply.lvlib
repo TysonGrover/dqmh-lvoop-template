@@ -139,6 +139,7 @@
 	<Item Name="Classes" Type="Folder">
 		<Item Name="generic-power-supply.lvclass" Type="LVClass" URL="../Classes/generic-power-supply/generic-power-supply.lvclass"/>
 		<Item Name="PSP-603.lvclass" Type="LVClass" URL="../Classes/PSP-603/PSP-603.lvclass"/>
+		<Item Name="BK 9202B.lvclass" Type="LVClass" URL="../Classes/BK 9202B/BK 9202B.lvclass"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
